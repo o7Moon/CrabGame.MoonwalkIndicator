@@ -14,3 +14,6 @@ B. Manual installation instructions below:
 # Features
 - Damage flash when dropping a moonwalk (going from 20 speed to less than 20 speed while in a state where it would have been possible to moonwalk to keep speed)
 - Velocity direction indicator next to crosshair. If you're not sure what this is used for, try moonwalking and watch the blue dot, notice how you keep it away from the crosshair/center of the screen.
+
+# What is moonwalking?
+See [this video](https://youtu.be/DMQzLYOfCYA).
