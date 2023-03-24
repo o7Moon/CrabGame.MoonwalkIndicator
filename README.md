@@ -16,4 +16,4 @@ B. Manual installation instructions below:
 - Velocity direction indicator next to crosshair. If you're not sure what this is used for, try moonwalking and watch the blue dot, notice how you keep it away from the crosshair/center of the screen.
 
 # What is moonwalking?
-See [this video](https://youtu.be/DMQzLYOfCYA).
+See [this video](https://youtu.be/DMQzLYOfCYA) or [this one](https://youtu.be/kIm43Nwf8e4) for a more technical explanation.
